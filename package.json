@@ -1,0 +1,9 @@
+{
+  "author": "Lin808",
+  "description": "Heatmap-style play count calendar with Last.fm integration",
+  "enableDragDrop": false,
+  "id": "{58f36ce7-5799-4be1-ab40-da2df0d1abac}",
+  "name": "Heatmap Calendar",
+  "shouldGrabFocus": true,
+  "version": "1.0.0"
+}
